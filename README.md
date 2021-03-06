@@ -3,8 +3,6 @@
 ---
 
 
-##My CV card
-
 
 ![My foto](https://sun9-59.userapi.com/impg/Evfl3TsI3cMJKKpE-thOq9NH9O_thzVb65Cx6Q/QH_V2tE-5l4.jpg?size=806x1007&quality=96&sign=2bd673c96de08e5ede935f4f3c71d0f5&type=album "My foto")
 
